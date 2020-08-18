@@ -1,0 +1,12 @@
+settings:
+   maxlevel: 4
+
+levels:
+   level1: 0
+   level2: 1
+   level3: 3
+   level4: 5
+
+rewards:
+   level1:
+      - give %player% minecraft:diamond 1

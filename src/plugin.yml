@@ -1,0 +1,9 @@
+name: PrisonGangs
+version: 1.0
+author: Joiubas
+main: com.joiubas.prisongangs.PrisonGangs
+softdepend: [PlaceholderAPI, Vault]
+commands:
+   gang:
+      description: Main PrisonGangs command.
+      aliases: [g]
